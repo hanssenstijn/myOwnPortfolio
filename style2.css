@@ -1,0 +1,48 @@
+body {
+    background-image: url("dendy-darma-2NHjxFeXPGw-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+li{
+    list-style-type: none;
+    margin: 0 10vw;
+    font-size: 5vh;
+
+}
+
+nav{
+    width: 99vw;
+    background-color: #ffffff;
+    opacity: .5;
+}
+
+ul{
+    /*this option by default dispose the elements in a row (flex-direction: row)*/
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+
+    /*below I changed the color*/
+    color: black;
+}
+
+a:hover{
+    background-color: lightblue;
+    opacity: 0.9;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #ffffff;
+    opacity: .2;
+    color: black;
+    text-align: center;
+}
