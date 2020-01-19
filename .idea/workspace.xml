@@ -37,12 +37,16 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index2.html">
+    <configuration name="index2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myOwnPortfolio/index2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myOwnPortfolio/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index2.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -70,7 +74,13 @@
       <option name="presentableId" value="Default" />
       <updated>1578231488847</updated>
       <workItem from="1578231490099" duration="3629000" />
-      <workItem from="1578235506911" duration="4157000" />
+      <workItem from="1578235506911" duration="4299000" />
+      <workItem from="1578336857052" duration="1501000" />
+      <workItem from="1578427363948" duration="4915000" />
+      <workItem from="1578489981031" duration="8846000" />
+      <workItem from="1578515992773" duration="64000" />
+      <workItem from="1578747991903" duration="280000" />
+      <workItem from="1579421753252" duration="18768000" />
     </task>
     <servers />
   </component>
@@ -82,5 +92,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578238424666" />
+    <state x="425" y="186" key="run.anything.popup" timestamp="1578429795784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="186" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1578429795784" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578509508738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578509508738" />
   </component>
 </project>
