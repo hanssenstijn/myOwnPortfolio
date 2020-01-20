@@ -52,3 +52,7 @@
 
 > stylecontact.css: **Enlarge the icons with font-size using rem**
 
+:camera:  :camera:  :camera:
+```
+ Images are present in the repo
+```
